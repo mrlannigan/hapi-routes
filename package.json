@@ -35,6 +35,6 @@
     "lab": "14.x.x"
   },
   "dependencies": {
-    "async": "2.x.x"
+    "async": "^2.6.0"
   }
 }
